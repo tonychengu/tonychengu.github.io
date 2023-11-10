@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a undergraduate Computer Engineering student at Georgia Institute of Technology. I've finished my other undergraduate degree in Quantitative Science with concentration in Informatics at Emory University. At Emory University, I've been working on machine learning model applied on brain imaging data such as fMRI, sMRI, EGG data with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), [Xuan Kan](https://kanxuan.live/) and [Hejie Cui](https://hejiecui.com/).
 
-I'm currently working in the [BioWiNs Lab](https://biowins.ece.gatech.edu/) at Georgia Tech supervised by Prof. Seun Sangodoyin. I'm actively seeking internships in hardware or data-related fields.
+I'm currently working in the [BioWiNs Lab](https://biowins.ece.gatech.edu/) at Georgia Tech supervised by Prof. Seun Sangodoyin. I'm actively seeking internships in hardware or data-re
 
 Getting started
 ======

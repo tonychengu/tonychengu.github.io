@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Antonio Aodong (Tony) Chen Gu"
   avatar           : "profile.png"
-  bio              : "B.S. Quantitative Science - Emory \n B.S. Computer Engineering - GaTech"
-  location         : "Location"
+  bio              : "B.S. Quantitative Science at Emory & B.S. Computer Engineering at GA Tech"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/tonychengu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/tony-chen-gu/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

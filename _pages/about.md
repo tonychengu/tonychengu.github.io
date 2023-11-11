@@ -8,27 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a undergraduate Computer Engineering student at Georgia Institute of Technology. I've finished my other undergraduate degree in Quantitative Science with concentration in Informatics at Emory University. At Emory University, I've been working on machine learning model applied on brain imaging data such as fMRI, sMRI, EGG data with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), [Xuan Kan](https://kanxuan.live/) and [Hejie Cui](https://hejiecui.com/).
+Hi! I'm Tony, an undergraduate Computer Engineering student at Georgia Institute of Technology. I'm actively seeking internships or Co-op opportunity in **Hardware** or **Data** related fields. My expertise mainly lies in using Python for data analysis employing statistic or ML ideologies. I'm also very interested in IC design and verification and that's why I'm doing another degree at Georgia Tech major in Computer Engineering. I believe my unique interdisciplinary background enables me to understand how data is digested from both hardware and software perspective.
 
-I'm currently working in the [BioWiNs Lab](https://biowins.ece.gatech.edu/) at Georgia Tech supervised by Prof. Seun Sangodoyin. I'm actively seeking internships in hardware or data-re
-
-Getting started
+Education Background
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+B.S. Computer Enigneering, Georgia Institute of Technology, May 2025 (expected)  
+B.S. Quantitative Science concentration: Informatics, Emory University, May 2023
 
-**Markdown generator**
+Research Experience
+======
+At Emory University, I've been working on machine learning model applied on brain imaging data such as fMRI, sMRI, EGG data with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), and PhD candidate [Xuan Kan](https://kanxuan.live/) and [Hejie Cui](https://hejiecui.com/).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I'm currently working in the [BioWiNs Lab](https://biowins.ece.gatech.edu/) at Georgia Tech supervised by Prof. Seun Sangodoyin. I'm working on projects using FPGA for image processing and machine learning.

@@ -86,8 +86,8 @@ author:
   location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "acu34@gatech.edu"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "agu34@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

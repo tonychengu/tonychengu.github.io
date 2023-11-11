@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Tony, an undergraduate Computer Engineering student at Georgia Institute of Technology. I'm actively seeking internships or Co-op opportunity in **Hardware** or **Data** related fields. My expertise mainly lies in using Python for data analysis employing statistic or ML ideologies. I'm also very interested in IC design and verification and that's why I'm doing another degree at Georgia Tech major in Computer Engineering. I believe my unique interdisciplinary background enables me to understand how data is digested from both hardware and software perspective.
-For more information, you can find my resume [here](http://tonychengy.github.io/files/Antonio Aodong Chen Gu resume.pdf).
+For more information, you can find my resume [here](http://tonychengu.github.io/files/Antonio Aodong Chen Gu resume.pdf).
 
 Education Background
 ======

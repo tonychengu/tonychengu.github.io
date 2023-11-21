@@ -44,12 +44,14 @@ module matrix_multiply #(
 
   integer i, j, k;
   always @(*) begin
+    // initialize c
+    for(i = 0; i < Col1*Row2; i=i+1) begin
+      c[i] = 0;
+    end
+    // calculate matrix multiplication
     for (i = 0; i < Col1; i=i+1) begin
       for (j = 0; j < Row1; j=j+1) begin
         for (k = 0; k < Row2; k=k+1) begin
-          if (c[i*Row2+k] === 'z || c[i*Row2+k] === 'x) begin
-            c[i*Row2+k] = 15'd0;
-          end
           c[i*Row2+k] = c[i*Row2+k] + a[i*Row1+j] * b[j*Row2+k];
         end
       end
@@ -158,3 +160,7 @@ if __name__ == "__main__":
 
 # reference:  https://github.com/cocotb/cocotb/blob/d19464474ad2b990732f062359a2c144bc6e3fb8/examples/matrix_multiplier/tests/test_matrix_multiplier.py
 ```
+With the example of cocotb official repo, we could construct such a test bench fully in Python. All we need to do is to set the environment such as `icarus` here and the path of the verilog file `matrix_multiply.sv`. `dut` in the test function is the module we are testing and we could access and modify its value with `.` operator.
+To log the result, we could simply print it out. We could also rise error with `assert` statement, so that we get cocotb would report the run as failed.
+Here is a screenshot of the result.
+![cocotb result](/images/cpython_final_test_matrix_mul.jpg)

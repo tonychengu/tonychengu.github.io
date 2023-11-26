@@ -8,13 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Tony, an undergraduate Computer Engineering student at Georgia Institute of Technology. I'm actively seeking internships or Co-op opportunity in **Hardware** or **Data** related fields. My expertise mainly lies in using Python for data analysis employing statistic or ML ideologies. I'm also very interested in IC design and verification and that's why I'm doing another degree at Georgia Tech major in Computer Engineering. I believe my unique interdisciplinary background enables me to understand how data is digested from both hardware and software perspective.
+Hi! I'm Tony, an undergraduate Computer Engineering student at Georgia Institute of Technology. I'm actively seeking internships or Co-op opportunity in **Hardware** or **Data** related fields. My expertise mainly lies in using Python for data analysis employing statistic or ML ideologies. I'm also very interested in IC design and verification and that's why I'm doing another degree at Georgia Tech major in Computer Engineering. I believe my unique interdisciplinary background enables me to understand how data is digested from both hardware and software perspective.  
 For more information, you can find my resume [here](http://tonychengu.github.io/files/Antonio Aodong Chen Gu resume.pdf).
 
 Education Background
 ======
 B.S. Computer Engineering, Georgia Institute of Technology, May 2025 (expected)  
 B.S. Quantitative Science concentration: Informatics, Emory University, May 2023
+
+Coursework
+======
+Circuit Analysis, Regression Analysis, Data Structure and Algorithms (Java), Mach. Learning & Causal Inference (R & Python), Database System (PostgreSQL), Digital System Design, Signal Processing, Cloud Computing (AWS)
+
+Skills
+======
+* **Programming Languages**: Python, C, C++, Verilog, Java, MATLAB, R, SQL, JavaScript, Dart
+* **Data Analysis**: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, PyTorch, ggplot, tidyverse
+* **Software**: Git, Linux, Jupyter Notebook, Visual Studio Code, Xilinx Vivado, ModelSim, Intel Quartus Prime, Microsoft Office, Adobe Photoshop, Autodesk EAGLE, AWS, Flutter
 
 Research Experience
 ======

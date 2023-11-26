@@ -163,4 +163,12 @@ if __name__ == "__main__":
 With the example of cocotb official repo, we could construct such a test bench fully in Python. All we need to do is to set the environment such as `icarus` here and the path of the verilog file `matrix_multiply.sv`. `dut` in the test function is the module we are testing and we could access and modify its value with `.` operator.
 To log the result, we could simply print it out. We could also rise error with `assert` statement, so that we get cocotb would report the run as failed.
 Here is a screenshot of the result.
-![cocotb result](/images/cpython_final_test_matrix_mul.jpg)
+![cocotb result](/images/python_final_test_matrix_mul.jpg)
+
+## Final Check on Quartus
+Writing a Verilog code that works directly in simulation tools such as Icrarus Verilog or ModelSim are not enough. There are many other things we need to keep an eye on. For example, the initial block usually cannot be synthesized. We need to use reset instead. Also, the testbench data is not synthesizable. We need to use a real clock and real data. Therefore, it's necessary to check the design on Quartus to make sure it works on real hardware. The Quartus would take far more time to compile and make sure the design meets all kinds of real-world constraints.  
+It's simple to check your design in Quartus. Just create a new project and create a new Verilog file and paste your code in it. Set the code as top-level module and then just click `Start Compilation`.
+Here is screenshot of the result.
+![Quartus result](/images/matrix_quartus_compile.jpg)
+One can also check the RTL view of the design.
+![Quartus RTL view](/images/rtl_view_matrix_mul.jpg)

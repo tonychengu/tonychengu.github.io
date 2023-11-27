@@ -172,3 +172,6 @@ Here is screenshot of the result.
 ![Quartus result](/images/matrix_quartus_compile.jpg)
 One can also check the RTL view of the design.
 ![Quartus RTL view](/images/rtl_view_matrix_mul.jpg)
+
+## Conclusion
+In this project, I implemented a naive matrix multiplication module in Verilog. I also used cocotb to automate the testing process. This project is a good practice for beginner to get familiar with Verilog and cocotb. For the next step of this project, more optimization for the design can be done such as pipelining and parallelization. Also, the module can be extended to support more features such as different data type.

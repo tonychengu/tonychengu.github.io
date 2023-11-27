@@ -18,16 +18,18 @@ B.S. Quantitative Science concentration: Informatics, Emory University, May 2023
 
 Coursework
 ======
-Circuit Analysis, Regression Analysis, Data Structure and Algorithms (Java), Mach. Learning & Causal Inference (R & Python), Database System (PostgreSQL), Digital System Design, Signal Processing, Cloud Computing (AWS)
+My course work mainly focus on data sciences and computer engineering.  
+For data sciences: Regression Analysis, Data Structure and Algorithms (Java), Mach. Learning & Causal Inference (R & Python), Database System (PostgreSQL), Cloud Computing (AWS)  
+For computer engineering: Circuit Analysis, Digital System Design, Signal Processing
 
 Skills
 ======
 * **Programming Languages**: Python, C, C++, Verilog, Java, MATLAB, R, SQL, JavaScript, Dart
 * **Data Analysis**: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, PyTorch, ggplot, tidyverse
-* **Software**: Git, Linux, Jupyter Notebook, Visual Studio Code, Xilinx Vivado, ModelSim, Intel Quartus Prime, Microsoft Office, Adobe Photoshop, Autodesk EAGLE, AWS, Flutter
+* **Software**: Git, Linux, Jupyter Notebook, Visual Studio Code, Xilinx Vivado, ModelSim, Intel Quartus Prime, Microsoft Office, Adobe Photoshop, Autodesk EAGLE, AWS, Flutter, cocotb (for HDL verification automation)
 
 Research Experience
 ======
-At Emory University, I've been working on machine learning model applied on brain imaging data such as fMRI, sMRI, EGG data with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), and PhD candidate [Xuan Kan](https://kanxuan.live/) and [Hejie Cui](https://hejiecui.com/).
+At Emory University, I've been working on machine learning model applied on brain imaging data such as fMRI, sMRI, EGG data with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), and PhD candidate [Xuan Kan](https://kanxuan.live/) and [Hejie Cui](https://hejiecui.com/). During my time at EGM lab, I've developed a deep understanding in MRI imaging data processing pipeline. I've also gained lots of experience in machine learning model development process specifically transformer models.
 
 I'm currently working in the [BioWiNs Lab](https://biowins.ece.gatech.edu/) at Georgia Tech supervised by Prof. Seun Sangodoyin. I'm working on projects using FPGA for image processing and machine learning.

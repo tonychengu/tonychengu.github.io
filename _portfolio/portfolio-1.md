@@ -86,6 +86,8 @@ Here's the wave form of it. We use ModelSim to simulate the design and it works 
 
 ## Automated testing with cocotb
 cocotb is a Python framework for verifying digital logic in simulators and FPGA. It's a great tool for automated testing.
+![cocotb](/images/cocotb.jpg)
+Here's the Python code for testing.
 ```python
 import os
 import sys
